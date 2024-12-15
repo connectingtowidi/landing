@@ -1,0 +1,25 @@
+/* without this container, the text will start from the left */
+/* and difficult to control. */
+
+/* CONTAINER: TO CREATE SPACE ON THE LEFT AND RIGHT! */
+.container {
+  width: 900px;
+  margin: 0 auto;
+  /* 0 top/bottom DONT CARE! auto to move it to the center of the screen */
+  /* after assigning width to 900px */
+}
+
+/* .container h1 { */
+  /* font-size: 2rem; */
+/* } */
+/*  */
+/* .container p { */
+  /* color: grey; */
+  /* margin-block-end: 3em; */
+/* } */
+/*  */
+/* .container a { */
+  /* background-color: greenyellow; */
+  /* border-radius: 5px; */
+  /* padding: 1rem; */
+/* } */
